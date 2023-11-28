@@ -1,3 +1,3 @@
-# dialogue
+# Unreal Engine 5 Dialogue
 
-Developed with Unreal Engine 5
+Advance Dialogue UE5 practiced from Ryan Laley youtube channel https://www.youtube.com/@RyanLaley
